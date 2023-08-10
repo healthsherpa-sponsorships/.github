@@ -5,4 +5,6 @@ This is the sponsorships account for HealthSherpa.
 https://healthsherpa.com  
 https://github.com/healthsherpa
 
-Sponsorsorees are selected by the members of HealthSherpa's Engineering organization. Sponsorship does not reflect endorsement or support by HealthSherpa or its members of any views and opinions expressed by sponsored entities.
+Sponsorees are selected by the members of HealthSherpa's Engineering organization as part of the company's Open Source Sponsorship Program and may change at any time. 
+
+Sponsorship does not reflect endorsement or support by HealthSherpa or its members of any views and opinions expressed by sponsored entities.
